@@ -1,0 +1,22 @@
+{
+    "name": "MEDIZOME",
+    "short_name": "MEDIZOME",
+    "start_url": ".",
+    "background_color": "blue",
+    "theme_color": "#009578",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/64nibin.png",
+            "sizes": "64x64",
+            "type": "image/png"
+
+        },
+        {
+            "src": "images/512nibin.png",
+            "sizes": "512x512",
+            "type": "image/png"
+
+        }
+    ]
+}
